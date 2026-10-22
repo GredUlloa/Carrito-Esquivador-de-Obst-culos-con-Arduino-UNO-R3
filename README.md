@@ -21,7 +21,8 @@ Carrito robótico autónomo que avanza hasta detectar un obstáculo, se detiene,
 | Servomotor (SG90 o similar) | 1 | Gira el sensor |
 | Puente H (L298N) | 1 | Controla los 2 motores |
 | Motores reductores DC con ruedas | 2 | Tracción diferencial |
-| Chasis, rueda loca | 1,3 | Base para montar las conexiones |
+| Protoborad | 1 | Para conectar los componentes |
+| Chasis, rueda loca | 1,3 | Base para montar el protoboard y componentes |
 | Batería / portapilas | 1 | Alimentación de motores |
 | Cables jumper | - | -|
 
